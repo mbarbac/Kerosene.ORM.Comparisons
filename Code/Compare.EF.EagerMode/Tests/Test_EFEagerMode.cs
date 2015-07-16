@@ -1,5 +1,5 @@
 ﻿using Compare.Common;
-using Kerosene.ORM.ExampleDB;
+using Kerosene.ORM.DataDB;
 using Kerosene.Tools;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
